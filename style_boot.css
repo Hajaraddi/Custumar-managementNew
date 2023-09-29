@@ -1,0 +1,14 @@
+h6:hover {
+text-decoration: underline;
+text-decoration: rgb(160, 95, 95);
+}
+/* #E1:hover{
+    background-color: rgb(235, 230, 160);
+    width: 120px; height: 50px;
+   border-radius: 50%;
+    } */
+    #E2:hover{
+        background-color: rgb(235, 230, 160);
+        width: 120px; height: 50px;
+       border-radius: 50%;
+        } 

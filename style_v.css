@@ -1,0 +1,31 @@
+.art-shadow h2{
+    text-shadow: 4px 3px 0px #fff,
+    9px 8px 0px rgba(0,0,0.15);
+}
+option:hover
+{
+color: burlywood;
+}
+select :hover {
+    color: aquamarine;
+}
+button {
+    display: inline-block;
+    background-color: #B22222;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.custom-select{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ h2{
+   text-shadow:#B22222;
+}
